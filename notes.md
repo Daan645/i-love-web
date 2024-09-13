@@ -152,9 +152,11 @@ Components zijn onderdelen die je meer dan een keer gebruikt het is handig om de
  ## Donderdag 12 september
  ### Bouwen
  vandaag heb ik een cardcomponent gebouwd die 5 random mensen laat zien
+
+ ### Samenwerken groepje
+ Ik heb vandaag een code review gegeven aan tristan en hem geholpen met zijn mansory grid. Ik heb de laatste puntjes op de i gezet kwa styling en hem geholpen de merge conflicts optelossen. Ook heb ik zijn merge request gereviewd.
+
  ### Wat heb ik geleerd
  - math random kan je een random waarde geven
  - push.array laat je iets in een array stoppen
-
- ### Samenwerken groepje
- Ik heb vandaag een code review gegeven aan tristan en hem geholpen met zijn mansory grid. Ik heb de laatste puntjes op de i gezet kwa styling en hem geholpen de merge conflicts optelossen
+ - Hoe je samenwerkt aan een code via github
