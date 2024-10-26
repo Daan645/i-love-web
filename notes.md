@@ -223,9 +223,23 @@ Vandaag zijn we als groepje langsgeweest bij de opdracht gever. We hebben een ro
 ## Woensdag 25 september 
 Vandaag hebben wij een datamodel opgesteld we sisten niet zeker hoe de opdracht gever de data wou versturen naar aanlijding hiervan hebben wij ons data model doorgemaild. Ook heb ik wat ideen in een ontwerp uitgewerkt die ik had voor de website.
 
-## Donderdag 26 
+## Donderdag 26 september
 Vandaag hebben we de website ontleed in taken, componenten en functies. Hier hebben wij issues van gemaakt en deze doormiddel van planning poker in het project board gezet.
 
+## Vrijdag 27 september
+Vandaag zijn we verder gegaan aan het projectboard
+
+## Maandag 30 september
+Vandaag hebben we alle taken aan elkaar verdeeld en zijn we de eerste stappen gaan maken in het project
+
+## Dinsdag 1 oktober
+Vandaag ben ik bezig gegaan aan mijn button component ik ben momenteel aan het leren over custom variabelen om zo mijn button herbruikbaar te maken
+
+## Woensdag 2 oktober
+Vooral verder gegaan aan de button
+
+## Donderdag 3 oktober 
+Ik heb de button afgekregen en snap custom variabelen nu goed, ik heb het voor elkaar gekregen om ook een svg toe te voegen of uit te zetten!
 
 ## Vrijdag 4 oktober
 
@@ -253,7 +267,6 @@ Hier heeft hij een 3d render van de berg gemaakt zodat het leuker is voor de men
 - Wees open minded
 - Stel de vraag aan jezelf wat het je brengt en vraag voor feedback 
 - Wees klaar om veel tijd te spenderen op animaties
-
 
 ## Maandag 7 oktober
 
@@ -320,6 +333,12 @@ Ik heb vandaag met mijn groepje online gewerkt ik ging verder aan mijn issue de 
 - cheerleader
 - tijd bewaarder
 
+## Donderdag 10 oktober
+Vandaag keihard gewerkt aan de weekselectie. Ontzettend veel geleerd van JS datetime, het is mij gelukt om de huidige maand op te halen en de huidige dag te selecteren!
+
+## Vrijdag 11 Oktober
+Sprintreview alvast voorbereiden en de weekselectie afronden.
+
 # Maandag 14 oktober
 
 ## Lses
@@ -347,6 +366,9 @@ heb je de meesterrproef en vrije ruimte al
 - Stage 10 weken is meeloop stage dan heb je weinig verantwoording
 - 20 weken stage heb je meer verantwoording waar je eigen projecten of een deel ervan doet waarmee je de meesterproef doet op stage. bij stage moet je zelf je bewijslast verzamelen, je hebt wel terugkom dagen waar je begeleid wordt.
 
+## Nieuw framework
+Vandaag heb ik een nieuw framework gekozen, ik heb voor Remix gekozen omdat dit erg op React lijkt. Ik wil graag React leren zodat ik later bedrijven kan helpen met projecten overzetten naar svelte en zo het beste van beide werelden heb.
+
 ### Hoe kies je een techstack
 
 - welk platfowm
@@ -367,8 +389,11 @@ kijk in javascript op jamstack
 
 Ga verder aan je project werk aan dezelfde users stories en epics.
 
+# Dinsdag 15 oktober
+Sprint review kon helaas niet doorgaan. Ik heb onderzoek gedaan naar frameworks
 
 # Woensdag 16 oktober
+
 ## Talk directus choises choices
 Directus is een cms met een aanpasbare ui, en is ontworpen voor gebruiksgemak en een snelle opzet. 
 
@@ -463,8 +488,11 @@ Het ligt vooral aan je product. Als je snelheid nodig hebt of iets meer complex.
 ### Argumentatie
 zondag 23:59 moet portflow ingeleverd zijn 12 indicatoren en daar kies je je beste van 
 
+## Donderdag 17 oktober
+### Installatie Remix
+Vandaag heb ik remix geinstalleerd. Ik kon alleen maar typescript kiezen, na heel wat onderzoek kwam ik erachter dat Remix uit zijn recente updates de keuze voor javascript weg heeft gehaald. Dit heb ik opgelost door gebruik te maken van een template installatie met JS.
 
-# Vrijdg 18 oktober
+## vrijdag 18 oktober
 
 ## Welove web 
 Dion Pieters Begon als iemand die de dropship sites optimalisren, hij vond het leuker om wat meer de creatieve kant op te gaan. En wat meer met development doen. Hij is later voor zichzelf begonnen. 
@@ -475,15 +503,24 @@ je bent je eigen ergste klant, want je de site is nooit af. Ook moet je je afvra
 ## Wat vind jij van tech stacks
 Alles lijkt best erg op elkaar daarom kan je erg flexibel zijn in techstacks en pas ik mij makkelijk aan.
 
-# Maandag 21 oktober
+## Maandag 21 oktober
+Vandaag heb ik veel onderzoek gedaan naar Remix en ben ik verder gegaan met de componenten overzetten. Ik begin langzaam aan Remix te wennen.
+
+## Dinsdag 22 oktober
+Vandaag heb ik vooral bewijslast gedocumenteerd.
 
 ## Woensdag 23 oktober
+Vandaag ben ik vooral verder gegaan met mijn bewijslast en heb ik wat onderzoek naar Remix gedaan.
 
- # Vrijdag 25 oktober
+## Donderdag 24 oktober
+Ik heb vandaag een argumentatie schema gemaakt aan de hand van het standpunt: Remix is een goed framework in de frontend wereld. Mijn conclusie was dat het een goed framework is als je meer tijd hebt en een groot project, maar als je een klein project hebt kost het onnodig veel tijd en lijdt de peformance eronder.
 
+## Vrijdag 25 oktober
 
+## Presentatie geven Remix
+Ik heb mijn presentatie gegeven het ging erg goed en na afloop begreep iedereen wat Remix was, hoe het ongeveer werkt en waarom je het wel en niet zou moeten gebruiken.
 
- aanleveren werk
+## aanleveren werk
 
  1. knopje create snapshot
  2. kies de juiste mapjes
