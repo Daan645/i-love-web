@@ -160,3 +160,348 @@ Components zijn onderdelen die je meer dan een keer gebruikt het is handig om de
  - math random kan je een random waarde geven
  - push.array laat je iets in een array stoppen
  - Hoe je samenwerkt aan een code via github
+
+ ## Vrijdag 13 sebtemper
+### Review samenwerken
+We hebben een review gehad over samenwerken, deze review ging erg goed. We lopen zelfs voor! We hebben aan justus laten zien hoe wij te werk gaan met issues branches en het project board dit was een professionele werkwijze!
+
+#### Tips / wat heb ik geleerd
+- Je kunt je issues sluiten met #fixes
+- Probeer de taken in kleinere delen op te splitsen
+- Probeer moscow toetepassen voor prioriteit
+- Om prioriteit te stellen kun je planning poker toepassen en de taak op deze manier in kleinere delen opsplitsen 
+
+
+### Welove web
+We hebben een we love web gekregen over toegankelijkheid en gekke dingen maken met css op het web.
+
+#### Wat heb ik geleerd?
+- Al scoort je pagina 100% toegankelijkheid, is deze niet altijd toegankelijk voor de echte gebruiker dit weet je pas wanneer je met de gebruikers waarvoor dit bedoelt is een test uitvoert.
+- Probeer ook leuke dingen te maken op het web zo zorg je ervoor dat niet elke webpagina hetzelfde is.
+- Een navigatie is vaak helemaal niet goed voor toegankelijkheid dit zorgt er namelijk voor dat je alle links hoort voor dat je de content van de site hoort zo ben je onnodig lang bezig.
+
+## Maandag 16 sebtemper
+Vandaag was ik helaas ziek thuis.
+
+### Werken aan visite kaartje
+Ik heb vandaag verder gewerkt aan mijn visite kaartje ik heb er een leuke easter egg in gebouwd er vallen nu html elementen uit de lucht als je op de knop front-end development klikt. Dit heb ik gedaan omdat ik een wat creatiever visite kaartje wil en wat meer met css wil oefenen. De we love web heeft mij hiervoor geinspireerd.
+
+## Dinsdag 17 sebtemper
+Vandaag ben ik met mijn team gaan zitten om te kijken wat we willen opleveren voor de laatste sprint, ook hebben we issues aangemaakt en het projectboard voorbereid op het testen.
+
+### Wat heb ik geleerd
+- Hoe je makkelijk een taakverdeling maakt voor het testen 
+- Hoe je het testen vooruit plant
+- Hoe je prioriteiten stelt voor de laatste onderdelen van de sprint
+
+## Woensdag 18 september
+vandaag heb ik de laatste puntjes op de i gezet en een scroll animation component gemaakt met css voor de opdracht, ik heb hier research naar gedaan en in een appart project mee lopen testen.
+
+### Les
+In de les hadden wij een wrap-up ik heb geleerd hoe je een goede readme schrijft en samen met mijn team een readme voor ons project opgesteld.
+
+### Wat heb ik geleerd
+- Hoe schrijf je een goede readme
+- Hoe werken css onscroll animations
+
+## Donderdag 19 september
+Vandaag heb ik de readme voor mijn profile card geschreven en de code hiervan gerefactored, ook heb ik de website volledig getest.
+
+## Wat heb ik geleerd
+- meer ervaring opgedaan met testen
+- meer ervaring opgedaan met readme schrijven
+
+## vrijdag 20 september 
+Vandaag hebben we het project opgeleverd en hebben de eerste jaars gekeken naar ons project dit ging erg goed
+
+## Maandag 23 september
+Vandaag hebben we de nieuwe opdracht gekregen ik moet met een groepje een radio app maken voor het mediahuis. We hebben vandaag een mail gestuurd naar de opdracht gever gestuurd om een afspraak te maken, voor het bespreken van de opdracht. Ook hebben we de basis voor het svelte kit project opgesteld.
+
+## Dinsdag 24 september
+Vandaag zijn we als groepje langsgeweest bij de opdracht gever. We hebben een rondlijding gehad bij triple. Ook hebben we de opdracht besproken, deze hebben wij van te voren al doorgenomen en vragen over bedacht, in dit gesprek hebben wij deze allemaal kunnen stellen
+
+## Woensdag 25 september 
+Vandaag hebben wij een datamodel opgesteld we sisten niet zeker hoe de opdracht gever de data wou versturen naar aanlijding hiervan hebben wij ons data model doorgemaild. Ook heb ik wat ideen in een ontwerp uitgewerkt die ik had voor de website.
+
+## Donderdag 26 
+Vandaag hebben we de website ontleed in taken, componenten en functies. Hier hebben wij issues van gemaakt en deze doormiddel van planning poker in het project board gezet.
+
+
+## Vrijdag 4 oktober
+
+### We love web
+Nicolas (nicodotcomputer) is een creative developer die vooral met js cs webGl unity genAI en llm werkt. Hij richt zich onderanderen op animaties en hoe deze kunnen helpen een verhaal te vertellen en zo de aandacht van de gebruiker te trekken.
+
+### Vita architecture
+in deze website laat hij zien hoe je met een animatie kan laten zien waar de site over gaat, hij had een soort protaal gecreerd waarin je verschillende foto's van hun werk kon zien. Ook heeft hij creatieve animaties zoals scroll waarmee je projecten kan zien en het lijkt alsof je een bol rond gaat, hij maakt van iets saais iets leuks zodat de gebruiker er mee kan spelen.
+
+### Lief amsterdam
+Op deze site speelt er automatisch een fil af die een beter beeld geeft over wat het bedrijf doet, ook staat er onderaan een scroll label zodat je uitgenodigd wordt om te scrollen. Ook speelt hij met de titel door dit op de achtergrond te tonen wat de website duidelijk maakt maar ook speels. Hij gebruikt een creatieve manier voor de plattegrond door deze op te bouwen uit elementen zodat de gebruiker er interactie mee kan hebben.
+
+### Lifeworld
+Op deze site staat vooral veel text daarom speelt nicolas vooral veel met animaties wat de tekst meer laat opvallen en meer interessant maakt.
+
+### LOER
+Dit is een architecttuur site hij maakt dit duidelijk door de site op een blauwdruk te lijken.
+
+### Mountain 
+Hier heeft hij een 3d render van de berg gemaakt zodat het leuker is voor de mensen om naar te kijken.
+
+
+### Conclusie
+- Zie animaties en interactie als een toevoeging aan het origineel
+- Wees open minded
+- Stel de vraag aan jezelf wat het je brengt en vraag voor feedback 
+- Wees klaar om veel tijd te spenderen op animaties
+
+
+## Maandag 7 oktober
+
+### Les agile werken
+
+#### Waterfall method
+Alles wat je gaat bouwen documenteer je heel uitgebreid voor je het gaat bouwen. Het wordt waterfall genoemd omdat je via stappen schematisch naar beneden werkt.
+
+
+## Dinsdag 8 oktober
+Ik heb vandaag met mijn groepje online gewerkt ik ging verder aan mijn issue de weekweergave maken. Vandaag heb ik eraan gewerkt om een soort vervaag effect te maken aan de zijkant zodat het lijkt alsof de weken die niet in beeld zijn wegvagen. Dit heb ik gedaan met een before en een after. Ook heb ik een scroll functie gemaakt waarmee je doormiddel van het klikken op de links en rechts button kan scrollen. Hiervan heb ik geleerd dat je met :bind een element aan een variabele kan binden en dat je met scrollBy een button door een carousel kunt laten scrollen.
+
+## Woensdag 9 oktober
+
+### Wrap up 
+#### Wat heeft een goede oplevering nodig
+- een goede readme
+- leg in de readme uit hoe de code werkt
+- probeer de must haves af te hebben
+- een example env bestand maken
+- nette code
+- duidelijke comments plaatsen zodat de code makkelijk optepaken is voor een volgende 
+- geen console logs
+- goede tabs
+- eventueel een release
+- goede pull request strategie
+- gestructureerde code conventies
+- goede components
+- Testen
+- live pagina
+- linter
+- hoe wil een opdrachtgever de opdracht opgeleverd hebben
+
+#### Hoe maak je een goede readme?
+- gebruikte bronnen
+- link naar projectboard
+- installatie guide
+- uitleg code
+- uitleg wat je hebt gebouwd
+- licentie
+- change log
+
+#### Wat doe je bij een sprintreview
+- met de opdrachtgever en elkaar terugblikken wat je hebt gedaan
+- demo / presentatie geven
+- werk opleveren
+- plannen voor de komende sprint
+- feedback vragen
+- testen bespreken 
+- voorstellen doen
+- je team genoten feedback geven
+- agenda maken
+
+#### Hoe ziet een goede demo eruit
+- website laten zien 
+- langs de user stories gaan
+- laten zien wat er nog niet is gelukt aan de hand van het design
+- stilstaan waarbij je feedback wilt hebben
+- enthousiasme
+
+##### Rollen tijdens demo
+- presentator
+- notulist (op issues)
+- cheerleader
+- tijd bewaarder
+
+# Maandag 14 oktober
+
+## Lses
+
+Choises choises
+
+tijdens de sprint:
+- onderzoek je een nieuwe techstack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
+- verantwoord en presenteer je jouw gemaakte keuze.
+- Neem je de mentorrol in de jaar 1 tribe serieus.
+
+Mentoring workshop
+
+Anderhalve week om een techstack te kiezen en eventueel met een ander cms 
+
+### onderweg naar de midterm 
+heb je de meesterrproef en vrije ruimte al
+- je moet 12 bewijslasten van de 15 inleveren en allen je beste
+
+### Vrije ruimte 
+- andere bachelor deelnemen
+- minor ondernemerschap (onderneming opzetten)
+- Schakelprogramma naar cmd kan je in 2 max 2,5 jaar kan je je bachelor halen. je kunt niet alle bewijslast halen. kwa techniek.
+- FDND agency dan werk je verder aan de projecten waarmee je nu werkt maar krijgt meer verantwoording.
+- Stage 10 weken is meeloop stage dan heb je weinig verantwoording
+- 20 weken stage heb je meer verantwoording waar je eigen projecten of een deel ervan doet waarmee je de meesterproef doet op stage. bij stage moet je zelf je bewijslast verzamelen, je hebt wel terugkom dagen waar je begeleid wordt.
+
+### Hoe kies je een techstack
+
+- welk platfowm
+- wat voor project
+- scale
+- hoeveel werken eraan
+- peformance
+- expertize
+- maintanance
+- cost
+
+
+- developer experience
+- user experience
+- content management experience
+
+kijk in javascript op jamstack
+
+Ga verder aan je project werk aan dezelfde users stories en epics.
+
+
+# Woensdag 16 oktober
+## Talk directus choises choices
+Directus is een cms met een aanpasbare ui, en is ontworpen voor gebruiksgemak en een snelle opzet. 
+
+Zijn rol is de user expierence verbeteren ze bouwen de website, directus streaming en het directus platform. Ze letten op hoe ze mensen directus kunnen leren en alles zo duidelijk mogelijk kunnen maken. Ze hopen op die manier dat ze directus fijn vinden en het aanschaffen. Directus is een soort van opensource het enige verschil is dat als je meer dan 5 miljoen per jaar verdient dat je moet betalen. Ook verdienen ze geld met cursussen.
+
+## hoe werken ze
+iedereen werkt remote thuis op de tijden die overeenkomen in de verschillende tijdzones hebben ze alle meetings. 
+
+## keuzes 
+
+Je hebt verschillende keuzes snel goedkoop en kwaliteit je kan nooit alle 3 tegelijk hebben.
+alle keuzes hebben afwegingen en het kan nooit perfect zijn.
+
+- perfectionisme
+Het moeilijke met perfectionisme is dat het langer duurt om te leveren en het duurder wordt. 
+
+- tech stack selection
+Je kunt pre build components gebruiken dan ben je sneller maar dan lijkt het op alle andere apps. Op die manier kun je je keuzes baseren
+Ook kun je soms beter kiezen voor een framework dat wat meer outdated is als je er wat meer van weet zodat je meer tijd hebt.
+
+## Peformance vs maintainability 
+overwegingen:
+- Hoe erg sneller kan je je website maken
+- Hoeveel mensen gebruiken het
+
+Bij directus kijken ze naar peformance omdat je super veel databases kunt inladen.
+
+## Tailwind
+Via tailwind kan je heel makkelijk styling doormiddel van classes toevoegen. Maar het kan het waard zijn om dit niet te gebruiken zodat mensen die nieuw zijn in het project dat niet perse hoeven leren om eraan te kunnen werken.
+
+## Velocity vs flexibility 
+als je een componten of tailwind gebruikt kan het makkelijker en sneller zijn maar je hebt wel minder creatieve opties
+
+## Innovation vs reliability
+Elk bedrijf steekt geld in producten en die genereren meer winst. Ook kan er geld naar reasearche en development gaan. dit kan geld kosten wanneer het project faalt maar het kan ook een goed product opleveren die je meer winst oplevert
+
+## AI
+AI kost geld maakt wel alles sneller maar kan het ook fout hebben. Je kan het overwegen met deze stappen, 
+- hoe accuraat moet het zijn
+- wie neemt de verandtwoordelijkheid als het niet goed is
+
+## cost benefits analyse
+
+
+- the tech stack maakt waarschijnlijk niet uit omdat de users het toch niet merken, behalve als er superveel mensen op de site komen
+- Je gaat slechte beslissingen maken goeie beslisingen komen met tijd en ervaring
+- Richt je keuzes op de gebruikers 
+
+## imposter syndrome 
+Vaak als je imposter syndrome hebt ben je beter dan als je het niet hebt omdat je dan streeft naar beter worden. 
+
+## directus tv
+directus tv heeft een show waaarmee je heel directus leert.
+
+Dit zijn de shows die je moet kijken
+- acces controlls
+- directus connect
+
+
+## Features van directus
+- webhook kan je een website koppelen en de data versturen
+- theming: hiermee kan je het thema veranderen
+- directus realtime: De data wordt de heletijd upgedate via een websocket
+- extensions: je kan met extensions functies in directus toevoegen
+
+
+
+## Talk shyanta
+
+## waar richt tripple zich op
+- development
+- deels design 
+- en technische kennis
+
+## Cultuur
+Tripple wilt mooie dingen maken met mooie mensen tripple deelt veel innovatie met elkaar en geeft elkaar presentaties over nieuwe kennis. Ook is innovatie erg belangrijk binnen tripple. Om up to date te blijven ga je ook naar converenties. Ook staan ze voor gezelligheid en feesten.
+
+### Het webteam
+Er zijn 3 losse teams die werken in de zelfde stack de teams werken in svelte of in react. Als het een nieuw project is gaan ze veel eerder naar svelte dan react. Later hebben ze ook SmartTV geinplementeerd. Voor smarttv bouwen ze met svelt omdat deze lightweight is en kleinere pakketen stuurt. 
+
+### Way of working
+Bij tripple werken ze scrum, ze werken met dailystandup, revinement alle tickets worden ingescaht op uren basis, retrospectives om terug te blikken, sprintreviews en planningen. Ze werken met gierra om de tickets te verwerken. Ze werken via azure devops. Code reviews, feature brands. Ook gebruiken zij conventional commits oftewel #fix, feature. 
+In de core werken ze met html, scss en typescript. 
+
+### wat kan invloed hebben op een tech stack
+Het ligt vooral aan je product. Als je snelheid nodig hebt of iets meer complex. Heb je een wens voor animaties.
+
+
+
+## Talk justus 
+
+### Argumentatie
+zondag 23:59 moet portflow ingeleverd zijn 12 indicatoren en daar kies je je beste van 
+
+
+# Vrijdg 18 oktober
+
+## Welove web 
+Dion Pieters Begon als iemand die de dropship sites optimalisren, hij vond het leuker om wat meer de creatieve kant op te gaan. En wat meer met development doen. Hij is later voor zichzelf begonnen. 
+
+### Waarom wil je een portfolio
+je bent je eigen ergste klant, want je de site is nooit af. Ook moet je je afvragen wat je wilt laten zien en aan wie je het wilt laten zien. Hoeveel tijd moet je eraan besteden. Ook is een vraag moet een designer kunnen developen en een developer moet kunnen designen. Dion is van mening dat het niet hoeft omdat je dan de creatiefste dingen bedenkt.
+
+## Wat vind jij van tech stacks
+Alles lijkt best erg op elkaar daarom kan je erg flexibel zijn in techstacks en pas ik mij makkelijk aan.
+
+# Maandag 21 oktober
+
+## Woensdag 23 oktober
+
+ # Vrijdag 25 oktober
+
+
+
+ aanleveren werk
+
+ 1. knopje create snapshot
+ 2. kies de juiste mapjes
+ 4. kies 1 per indicator 12 intotaal
+ 5. geef je snapshot een naam: Snapshot semester 3 midterm
+ 6. Druk op save
+
+ Inleveren
+ 1. ga naar tools en frameworks
+2. assignments 
+3. ga naar inleverpunt
+4. een zip bestand met alle repo's van s13 14 en 15
+5. die bestanden voeg je toe bij add a file
+6. druk op insert stuff
+7. selecteer de snapshot die je wilt inleveren
+8. je ziet de snapshot getoond worden
+9. klik op insert
+10. klik op submit
+
+beoordeling
+beroordelingen gaan nu per criteria inplaats van indicator
