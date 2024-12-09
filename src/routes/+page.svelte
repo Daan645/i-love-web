@@ -1,3 +1,21 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+    import Ul from "$lib/molecules/Ul.svelte";
+</script>
+
+<main>
+    <section class="subjects">
+<Ul/>
+</section>
+</main>
+
+<style>
+.subjects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+</style>
