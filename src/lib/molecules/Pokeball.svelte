@@ -57,6 +57,7 @@ position: absolute;
    left: 40%;
    z-index: 10;
    border: 5px solid black;
+   transition: 0.2s ease;
 }
 
 #pokeballButton::before {
@@ -72,11 +73,13 @@ position: absolute;
 
 }
 
+#pokeballButton:hover {
+    scale: 1.2;
+}
+
 .pokeball-bottom {
     background-color: white;
     clip-path: inset(50% 0 0 0); /* Toon alleen de bovenste 50% */
-    
-
 }
 
 
