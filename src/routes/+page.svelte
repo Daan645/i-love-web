@@ -1,21 +1,25 @@
 <script>
-    import Ul from "$lib/molecules/Ul.svelte";
+    import Pokeball from "$lib/molecules/Pokeball.svelte";
 </script>
 
-<main>
-    <section class="subjects">
-<Ul/>
-</section>
+<main class= "custom-main">
+   <Pokeball/>
 </main>
 
 <style>
-.subjects {
+/* .subjects {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     width: 100vw;
-}
+} */
 
+.custom-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-color: grey;
+}
 
 </style>
