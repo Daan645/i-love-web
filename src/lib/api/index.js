@@ -18,7 +18,7 @@ export default async function fetching(slug) {
       });
     } else {
       // Haal een specifieke discussie op op basis van de slug
-      console.log(repo + " piemel " + slug)
+      console.log(repo + slug)
       response = await fetch(`https://api.github.com/repos/${repo}/discussions/${slug}`, {
         headers: {
           Authorization: `Bearer ${token}`,
