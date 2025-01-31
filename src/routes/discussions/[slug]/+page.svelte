@@ -16,7 +16,7 @@
     <p>{@html discussion.body}</p>
     <a href='https://github.com/Daan645/i-love-web/discussions/{discussion.number}' target="_blank">Bekijk discussie op GitHub</a>
   {:else}
-    <p>Loading...</p>
+    <p>Loading..</p>
   {/if}
 </article>
 </div>
