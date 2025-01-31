@@ -10,7 +10,6 @@
   <a href="/">Ga terug</a>
 
   <div class="article-wrapper">
-
   <article>
   {#if discussion}
     <h1>{discussion.title}</h1>
@@ -25,21 +24,31 @@
 </main>
 
 <style>
+
+
   main > a:first-of-type {
-    margin-top: 5em;
+    margin: 2em;
   }
 
 .article-wrapper {
+ display: flex;
+ justify-content: center;
+ height: 100vh;
+width: 100vw;
+}
+article {
   display: flex;
-  align-items: center;
   flex-direction: column;
-  height: 100vh;
-  width: 100vw;
+  margin: 0 1em 1em 0;
+  width: 60vw;
+  
+
 }
 
-article {
-margin: 1em;
-padding: 1em;
+article a, :global(p a){
+  display: inline-block;
+  align-self: flex-start;
+  margin: 1em;
 }
 
 </style>
