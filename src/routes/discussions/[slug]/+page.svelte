@@ -48,7 +48,7 @@ article {
 article a, :global(p a){
   display: inline-block;
   align-self: flex-start;
-  margin: 1em;
+  margin: 0.1em;
 }
 
 </style>
