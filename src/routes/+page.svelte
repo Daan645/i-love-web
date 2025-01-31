@@ -24,29 +24,33 @@
   </script>
   
   <main>
-    <h1>Discussies</h1>
+    <section>
+    <h1>Artikelen</h1>
+    <p>Klik op de witte knop van de pokeball om de link weer te geven</p>
+  </section>
   
     {#if errorMessage}
       <p>{errorMessage}</p>
     {:else}
-      <ul>
-        
+      
+    <ul>
+
         {#each discussions as discussion}
-        <ul>
           <li>
             <article>
               <h2>{discussion.title}</h2>
-              <Pokeball href={`/discussions/${discussion.number}`} label="bekijk {discussion.title}"></Pokeball>
+              <Pokeball href={`/discussions/${discussion.number}`} label='{discussion.title}' linkText='{discussion.title}' ></Pokeball>
             </article>
           </li>
-        </ul>
         <!-- <li><a href={`/discussions/${discussion.number}`}>{discussion.title}</a></li> -->
         {/each}
       </ul>
+
     {/if}
     </main>
 <style>
 main {
+  
   font-family: sans-serif;
   width: 100vw;
   height: 100vh;
@@ -54,19 +58,42 @@ main {
   padding: 0;
   /* background-image: url("img/background.gif");
   background-size: cover; */
+
   
 }
 
+
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
 ul {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
+  flex-wrap: wrap; /* Zorgt ervoor dat items naar de volgende regel gaan */
+  gap: 1em; /* Ruimte tussen items */
+  padding: 0;
+  @media (min-width: 950px) {
+flex-direction: row;
+  }
 }
 
 li {
   list-style-type: none;
+  margin-bottom: 5em;
+  width: calc(33.33% - 1em); /* Zorgt voor drie items per rij, pas aan indien nodig */
 }
 
 article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 }
 

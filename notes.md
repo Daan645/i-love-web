@@ -542,3 +542,5 @@ Ik heb mijn presentatie gegeven het ging erg goed en na afloop begreep iedereen 
 
 beoordeling
 beroordelingen gaan nu per criteria inplaats van indicator
+
+Endterm - Semester 3 - Workflow, Tooling & Frameworks

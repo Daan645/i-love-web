@@ -1,5 +1,6 @@
 <script>
     export let href = "#";
+    export let linkText = "";
     export let label = "";
     // let pokeballButton;
     // let pokeballBottom;
@@ -18,16 +19,17 @@ function toggleClass() {
     </script>
     
     <section>
-      <button on:click={toggleClass}  class:isOpenButton={isActive} class:disabled={isActive} class="pokeball-link" href="{href}" aria-label="{label}"></button>
+      <button on:click={toggleClass}  class:isOpenButton={isActive} class:disabled={isActive} class="pokeball-link" href="{href}" aria-label="Open pokeball om {label} link te weergeven"></button>
 
-      <!-- <a class="pokeball-link" href="{href}" aria-label="{label}"></a> -->
+      <a href="{href}">Klik hier!</a>
       <figure class:isOpenTop={isActive} class="pokeball-top"></figure>
       <figure  class:isOpenMiddle={isActive} class="pokeball-middle"></figure>
       <figure class:isOpenBottom={isActive} class="pokeball-bottom"></figure>
       <figure class="pokeball-shadow"></figure>
 
     </section>
-    
+
+  
     <style>
     section {
       width: 15em;
@@ -35,6 +37,10 @@ function toggleClass() {
       position: relative;
       z-index: 1;
       perspective: 1000px; /* Voor diepte-effect */
+    }
+
+    a {
+      margin-bottom: 1em;
     }
 
     .pokeball-shadow {
@@ -132,7 +138,19 @@ function toggleClass() {
     
     .pokeball-link:hover {
     transform: translateX(10%) translateY(4%) rotate3d(1.5, 2, 2, 50deg); /* Draai de X-as met 40 graden */
+}
 
+a {
+  position: absolute;
+  top: 50%; /* Zorgt ervoor dat de link onder de Pokéball verschijnt */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  display: block;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
 }
 
 .pokeball-link:hover ~ .pokeball-top {
